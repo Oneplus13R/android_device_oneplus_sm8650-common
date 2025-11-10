@@ -8,4 +8,7 @@
     <!-- Show battery cycle count -->
     <bool name="config_show_battery_cycle_count" translatable="false">true</bool>
 
+    <!-- Show ltpo features -->
+    <bool name="config_supportLtpoFeatures">true</bool>
+    
 </resources>
